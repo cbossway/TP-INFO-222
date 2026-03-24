@@ -5,7 +5,7 @@ A RESTful API backend for a simple blog application built with Node.js, Express,
 ## Author
 
 **MATAGNE DASSE PRESLIE CHANEL**  
-Matricule: 23V2294  
+Student ID: 23V2294  
 INF222 - EC1 (Développement Backend) : Programmation Web
 
 ## Features
