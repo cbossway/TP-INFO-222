@@ -10,14 +10,14 @@ INF222 - EC1 (Développement Backend) : Programmation Web
 
 ## Features
 
-- ✅ **Complete CRUD Operations**: Create, Read, Update, Delete articles
-- ✅ **Search Functionality**: Search articles by title or content
-- ✅ **Filtering**: Filter articles by category, author, or date
-- ✅ **Input Validation**: Comprehensive validation using express-validator
-- ✅ **Swagger Documentation**: Auto-generated API documentation
-- ✅ **Error Handling**: Proper HTTP status codes and error messages
-- ✅ **SQLite Database**: Lightweight, file-based database
-- ✅ **Security**: CORS and Helmet middleware for security
+-  **Complete CRUD Operations**: Create, Read, Update, Delete articles
+-  **Search Functionality**: Search articles by title or content
+-  **Filtering**: Filter articles by category, author, or date
+-  **Input Validation**: Comprehensive validation using express-validator
+-  **Swagger Documentation**: Auto-generated API documentation
+-  **Error Handling**: Proper HTTP status codes and error messages
+-  **SQLite Database**: Lightweight, file-based database
+-  **Security**: CORS and Helmet middleware for security
 
 ## Technologies Used
 
