@@ -26,7 +26,7 @@ const swaggerOptions = {
       description: 'API Backend for a simple blog application',
       contact: {
         name: 'MATAGNE DASSE PRESLIE CHANEL',
-        email: 'preslie.matagne@example.com'
+        email: 'chanelledasse1@example.com'
       }
     },
     servers: [
