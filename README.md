@@ -379,4 +379,5 @@ Feel free to submit issues and enhancement requests!
 **Note**: This project was developed as part of the INF222 - EC1 (Développement Backend) course assignment at the university.
 <img width="2559" height="1338" alt="Capture d&#39;écran 2026-03-25 013530" src="https://github.com/user-attachments/assets/88fbd9b9-aaeb-4125-9fc7-f8c5b1216f97" />
 
-<img width="2559" height="1338" alt="Capture d&#39;écran 2026-03-25 013530" src="https://github.com/user-attachments/assets/6af70e06-d659-4f19-848e-c55a51319d94" />
+<img width="2555" height="1183" alt="Capture d&#39;écran 2026-03-25 013602" src="https://github.com/user-attachments/assets/828d9883-8d56-4dd0-9cc5-e89622abcc59" />
+
