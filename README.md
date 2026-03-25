@@ -377,3 +377,4 @@ Feel free to submit issues and enhancement requests!
 ---
 
 **Note**: This project was developed as part of the INF222 - EC1 (Développement Backend) course assignment at the university.
+<img width="2559" height="1179" alt="Capture d&#39;écran 2026-03-25 013816" src="https://github.com/user-attachments/assets/f301d601-01f2-4df5-965f-b2d132eef16b" />
